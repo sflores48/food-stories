@@ -24,8 +24,7 @@ This story comes from Mario Flores who was born in Albuquerque New Mexico, where
 
 
 ## Garlic, butter, and the bravery to try.
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
-
+Real cooking had always been background noise in Mario’s life; the clatter of pans, the scent of chile or simmering beans, the effortless way his mom or siblings moved around the kitchen. It felt like something that happened around him, never something he needed to step into himself. But now, standing over a pan of sizzling shrimp scampi, he felt an unexpected surge of excitement tangled with just a touch of panic. What started as a simple recipe suddenly feels like a quiet rite of passage his first deliberate step into doing something entirely on his own. 
 
 {% include audio.html
   src="scampi.mp3"
