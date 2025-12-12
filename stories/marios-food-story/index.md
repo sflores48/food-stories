@@ -32,7 +32,7 @@ She didn’t know it at the time, but that afternoon ended up changing the way s
 %}
 
 
-## Analysis: Smoke, Memory, and Belonging
+## Analysis: Excited, Overwhelmed, and Triumphant
 
 Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
 
