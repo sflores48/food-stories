@@ -18,8 +18,8 @@ This story comes from Mario Flores who was born in Albuquerque New Mexico, where
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="Something New"
+  image-path="stories/ChatGPT Image Dec 10, 2025, 12_03_54 AM.png"
 %}
 
 
